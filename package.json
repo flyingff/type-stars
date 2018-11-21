@@ -1,0 +1,15 @@
+{
+  "name": "type-stars",
+  "main": "./lib/ff-type-stars",
+  "version": "0.1.0",
+  "description": "Type a star from your cursor!",
+  "keywords": [  ],
+  "activationHooks": [ "core:loaded-shell-environment" ],
+  "repository": "https://github.com/flyingff/type-stars",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
