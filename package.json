@@ -1,7 +1,7 @@
 {
   "name": "type-stars",
   "main": "./lib/ff-type-stars",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Type a star from your cursor!",
   "keywords": [],
   "activationHooks": [
